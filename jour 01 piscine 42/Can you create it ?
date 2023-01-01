@@ -1,0 +1,8 @@
+Ex 05: Can you create it ?
+┌──(network㉿network)-[~/Bureau/formation42/jour 01 piscine 42 ]
+└─$ echo "42" > "\?\$*'KwaMe'*\$\?"
+
+                                                                                                                 
+┌──(network㉿network)-[~/Bureau/formation42/jour 01 piscine 42 ]
+└─$ cat \\\?\$\*\'KwaMe\'\*\$\\\? 
+42
